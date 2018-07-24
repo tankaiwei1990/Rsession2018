@@ -6,3 +6,6 @@ if(A>a) # true, 84 > 42
 {
   cat(A, ">", a, "\n")
 } 
+
+test1 <- 44
+test2 <- 22
