@@ -9,3 +9,6 @@ if(A>a) # true, 84 > 42
 
 test1 <- 44
 test2 <- 22
+
+test3 <- 44
+test4 <- 22
